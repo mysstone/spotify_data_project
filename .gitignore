@@ -172,3 +172,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Specific Python files to ignore
+credentials.py
+
+#Jupyter notebooks to Ignore
+spotify_cleaning.ipynb
+spotify_api.ipynb
+
+# csv files to ignore
+all_spotify_data.csv
+processed_songs.csv
+
+
+
+
